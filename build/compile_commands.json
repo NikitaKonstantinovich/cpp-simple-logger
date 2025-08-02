@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/vboxuser/Documents/cpp-simple-logger/build",
+  "command": "/usr/bin/c++  -I/home/vboxuser/Documents/cpp-simple-logger/include -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles/logger.dir/src/LogMessage.cpp.o -c /home/vboxuser/Documents/cpp-simple-logger/src/LogMessage.cpp",
+  "file": "/home/vboxuser/Documents/cpp-simple-logger/src/LogMessage.cpp",
+  "output": "CMakeFiles/logger.dir/src/LogMessage.cpp.o"
+},
+{
+  "directory": "/home/vboxuser/Documents/cpp-simple-logger/build/tests",
+  "command": "/usr/bin/c++  -I/home/vboxuser/Documents/cpp-simple-logger/include -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles/logger_tests.dir/LoggerTests.cpp.o -c /home/vboxuser/Documents/cpp-simple-logger/tests/LoggerTests.cpp",
+  "file": "/home/vboxuser/Documents/cpp-simple-logger/tests/LoggerTests.cpp",
+  "output": "tests/CMakeFiles/logger_tests.dir/LoggerTests.cpp.o"
+}
+]
