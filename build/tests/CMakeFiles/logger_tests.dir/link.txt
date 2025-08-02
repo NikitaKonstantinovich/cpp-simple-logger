@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/logger_tests.dir/LoggerTests.cpp.o -o logger_tests  ../liblogger.a 
