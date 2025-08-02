@@ -1,0 +1,38 @@
+# ────────── build artefacts ──────────
+/build*/                      # in-source и дополнительные build-каталоги
+/**/*.o
+/**/*.a
+/**/*.so
+/**/*.d
+/**/*.dll
+/**/*.exe
+/**/*.lib
+
+# CMake output
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Ninja
+.ninja_deps
+.ninja_log
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Sanitizers / coverage
+*.gcno
+*.gcda
+*.gcov
+*.profraw
+*.profdata
+
+# Logs / misc
+*.log
+*.tmp
+*.swp
+*~
+.DS_Store
